@@ -1,1 +1,1 @@
-This is about static library
+Introduction to Static and Dynamic Libraries in C programming
